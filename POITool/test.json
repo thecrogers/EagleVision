@@ -1,0 +1,533 @@
+{
+    "status": "OK",
+    "num_results": 58,
+    "results": [
+        {
+            "id": "2821",
+            "lat": "33.21196",
+            "lng": "-97.148988",
+            "elevation": "25",
+            "title": "Biology Building",
+            "distance": "5",
+            "has_detail_page": "1",
+            "webpage": ""
+        },
+        {
+            "id": "2823",
+            "lat": "33.213989",
+            "lng": "-97.146606",
+            "elevation": "25",
+            "title": "Language Building",
+            "distance": "5",
+            "has_detail_page": "1",
+            "webpage": ""
+        },{
+            "id": "2824",
+            "lat": "33.213998",
+            "lng": "-97.147293",
+            "elevation": "25",
+            "title": "Auditorium Building",
+            "distance": "5",
+            "has_detail_page": "1",
+            "webpage": ""
+        },{
+            "id": "2825",
+            "lat": "33.214303",
+            "lng": "-97.147969",
+            "elevation": "25",
+            "title": "Hickory Hall",
+            "distance": "5",
+            "has_detail_page": "1",
+            "webpage": ""
+        },{
+            "id": "2826",
+            "lat": "33.213531",
+            "lng": "-97.146671",
+            "elevation": "25",
+            "title": "Curry Hall",
+            "distance": "5",
+            "has_detail_page": "1",
+            "webpage": ""
+        },{
+            "id": "2827",
+            "lat": "33.212113",
+            "lng": "-97.146703",
+            "elevation": "25",
+            "title": "Sage Hall",
+            "distance": "5",
+            "has_detail_page": "1",
+            "webpage": ""
+        },{
+            "id": "2828",
+            "lat": "33.212131",
+            "lng": "-97.145802",
+            "elevation": "25",
+            "title": "RTVF Building",
+            "distance": "5",
+            "has_detail_page": "1",
+            "webpage": ""
+        },{
+            "id": "2829",
+            "lat": "33.213163",
+            "lng": "-97.14548",
+            "elevation": "25",
+            "title": "Art Building",
+            "distance": "5",
+            "has_detail_page": "1",
+            "webpage": ""
+        },{
+            "id": "2831",
+            "lat": "33.213046",
+            "lng": "-97.146542",
+            "elevation": "25",
+            "title": "Physics Building",
+            "distance": "5",
+            "has_detail_page": "1",
+            "webpage": ""
+        },{
+            "id": "2832",
+            "lat": "33.211054",
+            "lng": "-97.147245",
+            "elevation": "25",
+            "title": "Union Building",
+            "distance": "5",
+            "has_detail_page": "1",
+            "webpage": ""
+        },{
+            "id": "2833",
+            "lat": "33.210762",
+            "lng": "-97.145861",
+            "elevation": "25",
+            "title": "BSM at UNT",
+            "distance": "5",
+            "has_detail_page": "1",
+            "webpage": ""
+        },{
+            "id": "2834",
+            "lat": "33.20981",
+            "lng": "-97.14658",
+            "elevation": "25",
+            "title": "Mathews Hall",
+            "distance": "5",
+            "has_detail_page": "1",
+            "webpage": ""
+        },{
+            "id": "2835",
+            "lat": "33.209882",
+            "lng": "-97.145571",
+            "elevation": "25",
+            "title": "Wooten Hall",
+            "distance": "5",
+            "has_detail_page": "1",
+            "webpage": ""
+        },
+        {
+            "id": "2836",
+            "lat": "33.210192",
+            "lng": "-97.14901",
+            "elevation": "25",
+            "title": "Willis Library",
+            "distance": "5",
+            "has_detail_page": "1",
+            "webpage": ""
+        },{
+
+"id": "",
+"lat": "33.207732",
+"lng": "-97.147508",
+"elevation": "25",
+"title": "Kerr Hall",
+"distance": "5",
+"has_detail_page": "1",
+"webpage": ""
+},{
+"id": "",
+"lat": "33.20881",
+"lng": "-97.145834",
+"elevation": "25",
+"title": "Parking Garage",
+"distance": "5",
+"has_detail_page": "1",
+"webpage": ""
+},{
+"id": "",
+"lat": "33.208917",
+"lng": "-97.147701",
+"elevation": "25",
+"title": "Business Building",
+"distance": "5",
+"has_detail_page": "1",
+"webpage": ""   
+},{
+"id": "", 
+"lat": "33.207957",
+"lng": "-97.149965",
+"elevation": "25",
+"title": "Maple Hall",
+"distance": "5",
+"has_detail_page": "1",
+"webpage": ""    
+},{
+"id": "",
+"lat": "33.207948",
+"lng": "-97.151477",
+"elevation": "25",
+"title": "Clark Hall",
+"distance": "5",
+"has_detail_page": "1",
+"webpage": ""    
+},{
+"id": "",
+"lat": "-97.151713",
+"lng": "33.206969",
+"elevation": "25",
+"title": "Honors Hall",
+"distance": "5",
+"has_detail_page": "1",
+"webpage": ""    
+},{
+"id": "",
+"lat": "33.206449",
+"lng": "-97.152851",
+"elevation": "25",
+"title": "Mozart Square",
+"distance": "5",
+"has_detail_page": "1",
+"webpage": ""    
+},{
+"id": "",
+"lat": "33.207705",
+"lng": "-97.154127",
+"elevation": "25",
+"title": "Gateway Center",
+"distance": "5",
+"has_detail_page": "1",
+"webpage": ""    
+},{
+"id": "",
+"lat": "33.208639",
+"lng": "-97.154235",
+"elevation": "25",
+"title": "Coliseum",
+"distance": "5",
+"has_detail_page": "1",
+"webpage": ""    
+},{
+"id": "",
+"lat": "33.208459",
+"lng": "-97.149771",
+"elevation": "25",
+"title": "Goolsby Chapel",
+"distance": "5",
+"has_detail_page": "1",
+"webpage": ""    
+},{
+"id": "", 
+"lat": "33.208998",
+"lng": "-97.149428",
+"elevation": "25",
+"title": "crumbley Hall",
+"distance": "5",
+"has_detail_page": "1",
+"webpage": ""    
+},{
+"id": "", 
+"lat": "33.20977",
+"lng": "-97.147797",
+"elevation": "25",
+"title": "Stovall Hall",
+"distance": "5",
+"has_detail_page": "1",
+"webpage": ""    
+},{
+"id": "",
+"lat": "33.209734",
+"lng": "-97.15005",
+"elevation": "25",
+"title": "Music Annex",
+"distance": "5",
+"has_detail_page": "1",
+"webpage": ""    
+},{
+"id": "",
+"lat": "33.209671",
+"lng": "-97.15122",
+"elevation": "25",
+"title": "Music Practice South",
+"distance": "5",
+"has_detail_page": "1",
+"webpage": ""    
+},{
+"id": "",
+"lat": "33.209671",
+"lng": "-97.152604",
+"elevation": "25",
+"title": "Bain Hall",
+"distance": "5",
+"has_detail_page": "1",
+"webpage": ""    
+},{
+"id": "",
+"lat": "33.209914",
+"lng": "-97.153527",
+"elevation": "25",
+"title": "Ken Bahnsen Gym",
+"distance": "5",
+"has_detail_page": "1",
+"webpage": ""    
+},{
+"id": "",
+"lat": "33.210156",
+"lng": "-97.15122",
+"elevation": "25",
+"title": "Music Practice North",
+"distance": "5",
+"has_detail_page": "1",
+"webpage": ""    
+},{
+"id": "",
+"lat": "33.210784",
+"lng": "-97.152969",
+"elevation": "25",
+"title": "Physical Education Building",
+"distance": "5",
+"has_detail_page": "1",
+"webpage": ""    
+},{
+"id": "",
+"lat": "33.210901",
+"lng": "-97.15122",
+"elevation": "25",
+"title": "Chilton Hall",
+"distance": "5",
+"has_detail_page": "1",
+"webpage": ""   
+},{
+"id": "", 
+"lat": "33.210686",
+"lng": "-97.150136",
+"elevation": "25",
+"title": "Music Building",
+"distance": "5",
+"has_detail_page": "1",
+"webpage": ""    
+},{
+"id": "", 
+"lat": "33.211116",
+"lng": "-97.14843",
+"elevation": "25",
+"title": "Hurley Administration Building",
+"distance": "5",
+"has_detail_page": "1",
+"webpage": ""    
+},{
+"id": "", 
+"lat": "33.210336",
+"lng": "-97.147894",
+"elevation": "25",
+"title": "Eagle Student Servies Center",
+"distance": "5",
+"has_detail_page": "1",
+"webpage": ""    
+},{
+"id": "",
+"lat": "33.210138",
+"lng": "-97.147164",
+"elevation": "25",
+"title": "Scoular Hall",
+"distance": "5",
+"has_detail_page": "1",
+"webpage": ""    
+},{
+"id": "",
+"lat": "33.211143",
+"lng": "-97.14519",
+"elevation": "25",
+"title": "Matthews Hall Annex",
+"distance": "5",
+"has_detail_page": "1",
+"webpage": ""   
+},{
+"id": "",
+"lat": "33.211045",
+"lng": "-97.144858",
+"elevation": "25",
+"title": "Old Parking Garage",
+"distance": "5",
+"has_detail_page": "1",
+"webpage": ""    
+},{
+"id": "",
+"lat": "33.212239",
+"lng": "-97.141973",
+"elevation": "25",
+"title": "Speech and Hearing Clinic",
+"distance": "5",
+"has_detail_page": "1",
+"webpage": ""    
+},{
+"id": "", 
+"lat": "33.212023",
+"lng" : "-97.147958",
+"elevation": "25",
+"title": "Sycamore Hall",
+"distance": "5",
+"has_detail_page": "1",
+"webpage": ""    
+},{
+"id": "", 
+"lat": "33.211978",
+"lng": "-97.148969",
+"elevation": "25",
+"title": "Biology Building A",
+"distance": "5",
+"has_detail_page": "1",
+"webpage": ""   
+},{
+"id": "", 
+"lat": "33.212364",
+"lng": "-97.148851",
+"elevation": "25",
+"title": "Biology Building B",
+"distance": "5",
+"has_detail_page": "1",
+"webpage": ""   
+},{
+"id": "", 
+"lat": "33.212194",
+"lng": "-97.150202",
+"elevation": "25",
+"title": "Bruce Hall",
+"distance": "5",
+"has_detail_page": "1",
+"webpage": ""    
+},{
+"id": "", 
+"lat": "33.212409",
+"lng": "-97.151415",
+"elevation": "25",
+"title": "McConnel Hall",
+"distance": "5",
+"has_detail_page": "1",
+"webpage": ""    
+},{
+"id": "", 
+"lat": "33.212077",
+"lng": "-97.152563",
+"elevation": "25",
+"title": "Chestnut Hall",
+"distance": "5",
+"has_detail_page": "1",
+"webpage": ""    
+},{
+"id": "", 
+"lat": "33.212032",
+"lng": "-97.154215",
+"elevation": "25",
+"title": "Pohl Recreation Center",
+"distance": "5",
+"has_detail_page": "1",
+"webpage": ""    
+},{
+"id": "", 
+"lat": "33.211754",
+"lng": "-97.155706",
+"elevation": "25",
+"title": "West Hall",
+"distance": "5",
+"has_detail_page": "1",
+"webpage": ""   
+},{
+"id": "",
+"lat": "33.210488",
+"lng": "-97.155824",
+"elevation": "25",
+"title": "Traditions Hall",
+"distance": "5",
+"has_detail_page": "1",
+"webpage": ""    
+},{
+"id": "", 
+"lat": "33.210524",
+"lng": "-97.156811",
+"elevation": "25",
+"title": "Santa Fe Squre",
+"distance": "5",
+"has_detail_page": "1",
+"webpage": ""   
+},{
+"id": "", 
+"lat": "33.213235",
+"lng": "-97.154011",
+"elevation": "25",
+"title": "Ledges Hall",
+"distance": "5",
+"has_detail_page": "1",
+"webpage": ""    
+},{
+"id": "",
+"lat": "33.213711",
+"lng": "-97.153775",
+"elevation": "25",
+"title": "College Inn",
+"distance": "5",
+"has_detail_page": "1",
+"webpage": ""    
+},{
+"id": "",
+"lat": "33.214079",
+"lng": "-97.151458",
+"elevation": "25",
+"title": "Enviromental Education Science and Technology",
+"distance": "5",
+"has_detail_page": "1",
+"webpage": ""    
+},{
+"id": "", 
+"lat": "33.213199",
+"lng": "-97.149602",
+"elevation": "25",
+"title": "Terrill Hall",
+"distance": "5",
+"has_detail_page": "1",
+"webpage": ""   
+},{
+"id": "",
+"lat": "33.213244",
+"lng": "-97.149001",
+"elevation": "25",
+"title": "Marquis Hall",
+"distance": "5",
+"has_detail_page": "1",
+"webpage": ""    
+},{
+"id": "",
+"lat": "33.214034",
+"lng": "-97.149913",
+"elevation": "25",
+"title": "Chemestry Building",
+"distance": "5",
+"has_detail_page": "1",
+"webpage": ""   
+},{
+"id": "", 
+"lat": "33.214106",
+"lng": "-97.148947",
+"elevation": "25",
+"title": "Science Research Building",
+"distance": "5",
+"has_detail_page": "1",
+"webpage": ""    
+},{
+"id": "", 
+"lat": "33.214186",
+"lng": "-97.148035",
+"elevation": "25",
+"title": "Hickory Hall",
+"distance": "5",
+"has_detail_page": "1",
+"webpage": ""  
+}
+
+]
+}

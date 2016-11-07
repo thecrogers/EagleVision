@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res/com.untar.eaglevision">
+
+	<item 
+	    android:drawable="@drawable/tab_background_locked" 
+	    app:locked="true" />
+	
+	<item 
+	    android:drawable="@drawable/tab_background_checked" 
+	    app:checked="true" />
+	
+	<item 
+	    android:drawable="@drawable/tab_background_unchecked" 
+	    app:checked="false"
+		app:locked="false" />
+	
+</selector>

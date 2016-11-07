@@ -1,0 +1,56 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+     <string-array name="Buildings">
+        <item>Language Building</item>
+        <item>Auditorium Building</item>
+        <item>Hickory Hall</item>
+        <item>Curry Hall</item>
+        <item>Sage Hall</item>
+        <item>RTVF Building</item>
+        <item>Art Building</item>
+        <item>Physics Building</item>
+        <item>Union Building</item>
+        <item>BSM at UNT</item>
+        <item>Mathews Hall</item>
+        <item>Wooten Hall</item>
+        <item>Willis Library</item>
+        <item>Kerr Hall</item>
+        <item>Parking Garage</item>
+        <item>Business Building</item>
+        <item>Maple Hall</item>
+        <item>Clark Hall</item>
+        <item>Honors Hall</item>
+        <item>Mozart Square</item>
+        <item>Gateway Center</item>
+        <item>Coliseum</item>
+        <item>Goolsby Chapel</item>
+        <item>Crumbley Hall</item>
+        <item>Stovall Hall</item>
+        <item>Music Annex</item>
+        <item>Music Practice South</item>
+        <item>Bain Hall</item>
+        <item>Ken Bahnsen Gym</item>
+        <item>Music Practice North</item>
+        <item>Physical Education Building</item>
+        <item>Chilton Hall</item>
+        <item>Music Building</item>
+        <item>Hurley Administration Building</item>
+    </string-array>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+</resources>

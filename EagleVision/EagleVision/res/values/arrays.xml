@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="datasourcetypelist">
+		<item>@string/OSM</item>
+		<item>@string/MIXARE</item>
+	</string-array>
+	<string-array name="displaytypelist">
+		<item>@string/CIRCLE_MARKER</item>
+		<item>@string/NAVIGATION_MARKER</item>
+	</string-array>
+	<string-array name="defaultdatasources">
+	    <item>Own URL|http://eaglevision.net23.net/test.json|4|0|false</item>
+	</string-array>
+    <string-array name="CategoryIcons">
+        <item>@drawable/sample_0</item>
+        <item>@drawable/sample_1</item>
+        <item>@drawable/sample_2</item>
+        <item>@drawable/sample_3</item>
+        <item>@drawable/sample_4</item>
+        <item>@drawable/sample_5</item>
+        <item>@drawable/sample_6</item>
+        <item>@drawable/sample_7</item>
+        <item>@drawable/sample_0</item>
+        <item>@drawable/sample_1</item>
+        <item>@drawable/sample_2</item>
+        <item>@drawable/sample_3</item>
+    </string-array>
+    
+</resources>

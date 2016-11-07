@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomButtonState">
+        <!-- Use one for every state you want to have  -->
+        <attr name="checked" format="boolean" />
+        <attr name="locked" format="boolean" />
+        <attr name="lockable" format="boolean" />
+    </declare-styleable>
+</resources>
